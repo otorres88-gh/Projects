@@ -1,0 +1,7 @@
+C:\Projects\Searchfight\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Projects\Searchfight\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Projects\Searchfight\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Projects\Searchfight\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Projects\Searchfight\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Projects\Searchfight\BusinessLogic\bin\Debug\BusinessEntities.dll
+C:\Projects\Searchfight\BusinessLogic\bin\Debug\BusinessEntities.pdb

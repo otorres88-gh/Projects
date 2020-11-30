@@ -1,0 +1,11 @@
+C:\Projects\Searchfight\Searchfight\bin\Debug\Searchfight.exe.config
+C:\Projects\Searchfight\Searchfight\bin\Debug\Searchfight.exe
+C:\Projects\Searchfight\Searchfight\bin\Debug\Searchfight.pdb
+C:\Projects\Searchfight\Searchfight\obj\Debug\Searchfight.exe
+C:\Projects\Searchfight\Searchfight\obj\Debug\Searchfight.pdb
+C:\Projects\Searchfight\Searchfight\bin\Debug\BusinessLogic.dll
+C:\Projects\Searchfight\Searchfight\bin\Debug\BusinessEntities.dll
+C:\Projects\Searchfight\Searchfight\bin\Debug\BusinessLogic.pdb
+C:\Projects\Searchfight\Searchfight\bin\Debug\BusinessEntities.pdb
+C:\Projects\Searchfight\Searchfight\obj\Debug\Searchfight.csprojResolveAssemblyReference.cache
+C:\Projects\Searchfight\Searchfight\bin\Debug\Configuration.xml

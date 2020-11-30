@@ -1,0 +1,4 @@
+C:\Projects\Searchfight\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\Projects\Searchfight\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\Projects\Searchfight\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\Projects\Searchfight\BusinessEntities\obj\Debug\BusinessEntities.pdb
